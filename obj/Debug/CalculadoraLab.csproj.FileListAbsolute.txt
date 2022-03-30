@@ -1,0 +1,7 @@
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\bin\Debug\CalculadoraLab.exe.config
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\bin\Debug\CalculadoraLab.exe
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\bin\Debug\CalculadoraLab.pdb
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\obj\Debug\CalculadoraLab.csprojAssemblyReference.cache
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\obj\Debug\CalculadoraLab.csproj.CoreCompileInputs.cache
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\obj\Debug\CalculadoraLab.exe
+C:\Users\Usuario1\Desktop\2022\Prof Carlos 2022\Práctica supervisada\Laboratorio\CalculadoraLab\CalculadoraLab\obj\Debug\CalculadoraLab.pdb
